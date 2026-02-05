@@ -1,0 +1,2 @@
+Room: Splunk: Exploring SPL
+For first question "What is the name of the host in the Data Summary tab?" answer is "cyber-host". To get that I wrote in search head "index=windowslogs" and changed the time to "Al Time" in "Other". After that, in the "Selected Filds" I chose "host" and saw "cyber-host". That is the name of the host, which is the case of alerts.   
